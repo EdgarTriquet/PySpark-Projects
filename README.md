@@ -1,5 +1,5 @@
 # PySpark-Projects
-Here I some stuff I do with pySpark
+Here are some stuff I do with pySpark
 ## Pipeline_and_Ml_basics_Pyspark
 It contains the basic commands to make pipelines with pyspark, it is a quick reminder.
 
